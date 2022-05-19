@@ -3,7 +3,7 @@
 A classic marble solitatire game! Eliminate as many marbles as you can! Added new features like the customized icons, bgm and sound effects.
 
 ## How To Run
-java -jar project5.jar
+java -jar MarbleSolitaire.jar
 ## Rules
 You can remove a marble by jumping an adjacent marble over it (alone) and into a hole. No diagonal moves!
 ## Steps
